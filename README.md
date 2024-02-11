@@ -1,13 +1,14 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noriel Dimaano</h1>
 <h3 align="center">I have basic skills in front-end development and I am familiar with advanced JavaScript frameworks like ReactJs. I don’t have corporate front-end developer experience but I’ve practiced and studied online through Youtube, Scrimba and Simplilearn and also, I have exceptional thirst for new knowledge and very passionate about programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/media/aa9588469e19517c2b94b1addd15d11d.gif>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=norieldimaano&label=Profile%20views&color=0e75b6&style=flat" alt="norieldimaano" /> </p>
 
 - 🔭 I’m currently working on **enhancing my skills everyday**
 
-- 🌱 I’m currently learning more about **jQuery, JavaScript, ES6, React**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-dimaano-noriel.netlify.app](https://portfolio-dimaano-noriel.netlify.app)
+
+- 🌱 I’m currently learning more about **jQuery, JavaScript, ES6, React**
 
 - 📫 How to reach me **norieldimaano@gmail.com**
 
