@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noriel Dimaano</h1>
-<h3 align="startr">I have intermediate skills in front-end development and I am knowledgeable about advanced JavaScript frameworks like React. I don’t have corporate front-end developer experience but I’ve practiced and studied through Scrimba and Simplilearn and also, I have exceptional thirst for new knowledge and very passionate about programming.Kindly check out my portfolio thank you.</h3>
+<h3 align="startr">I have intermediate skills in front-end development and I am knowledgeable about advanced JavaScript frameworks like React.I’ve practiced and studied at Scrimba and Simplilearn and also, I have exceptional thirst for new knowledge and very passionate about programming.Kindly check out my portfolio thank you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norieldimaano&label=Profile%20views&color=0e75b6&style=flat" alt="norieldimaano" /> </p>
 
