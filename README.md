@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills everyday**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dimaano-noriel.netlify.app](https://portfolio-dimaano-noriel.netlify.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-dimaano-noriel.netlify.app](https://noriel-portfolio-react.netlify.app)
 
 - 🌱 I’m currently learning more about **jQuery, JavaScript, ES6, React**
 
